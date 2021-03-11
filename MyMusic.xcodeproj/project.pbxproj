@@ -68,11 +68,11 @@
 				679F9B4925EDDDB100982596 /* AppDelegate.swift */,
 				679F9B4B25EDDDB100982596 /* SceneDelegate.swift */,
 				679F9B4D25EDDDB100982596 /* ViewController.swift */,
+				679F9B6625EED47A00982596 /* PlayerViewController.swift */,
 				679F9B4F25EDDDB100982596 /* Main.storyboard */,
 				679F9B5225EDDDB300982596 /* Assets.xcassets */,
 				679F9B5425EDDDB300982596 /* LaunchScreen.storyboard */,
 				679F9B5725EDDDB300982596 /* Info.plist */,
-				679F9B6625EED47A00982596 /* PlayerViewController.swift */,
 			);
 			path = MyMusic;
 			sourceTree = "<group>";
